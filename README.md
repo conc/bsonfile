@@ -1,3 +1,6 @@
 # bsonfile
 
-处理son文件的pkg
+处理bson文件的pkg
+
+TODO:
+    优化性能
